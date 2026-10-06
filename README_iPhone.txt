@@ -14,4 +14,4 @@ iPhoneでは、ダウンロードしたHTMLファイルをそのままPWAとし�
 5. ホーム画面の「LPIC-3 QUEST」から起動
 
 一度読み込めば、Service Workerにより主要ファイルをキャッシュする構成です。
-学習記録はブラウザのlocalStorageに保存されます。
+学習記録はブラウザのlocalStorageに保存されます。　
